@@ -41,7 +41,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-API_URL = "http://localhost:8000"
+API_URL = "http://api:8000"
 
 # ── Sidebar ───────────────────────────────────────────────────────
 with st.sidebar:
