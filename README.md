@@ -1,6 +1,7 @@
 ﻿# ⚡ Electricity Theft Detection System
 
  🚀 Live Demo Link:https://aditya-acesun-electricity-theft-detection.hf.space
+ Take 15-20 seconds to render whole ui and ux 
 
 An AI-powered system to detect electricity theft using Machine Learning.
 
